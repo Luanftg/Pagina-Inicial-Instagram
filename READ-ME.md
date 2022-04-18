@@ -14,3 +14,12 @@ Enunciado
 ## Projeto Finalizado
 ---
 ### REFERÊNCIAS
+`display: flex`
+`justify-content: start` : inicia espaçamento da esquerda para direita;
+`justify-content: space-evenly` : espaço dos lados e entre os elementos;
+`justify-content: space-around` : espaçamento lateral
+`justify-content: space-between` : espaçamento entre.
+
+`flex-direction: column;`
+
+`:nth-child()` 
